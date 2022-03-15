@@ -7,10 +7,12 @@ public class Calculator {
 		
 		public int add(int x, int y)
 		{
+			System.out.print("Hi there");
 		int result=x+y;
 
 		return result;
 		}
+		
 
 	}
 
