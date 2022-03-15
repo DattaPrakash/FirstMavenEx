@@ -8,6 +8,7 @@ public class Calculator {
 		public int add(int x, int y)
 		{
 			System.out.print("Hi there");
+			System.out.println("Hi");
 		int result=x+y;
 
 		return result;
