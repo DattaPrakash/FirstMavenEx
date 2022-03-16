@@ -9,6 +9,7 @@ public class Calculator {
 		{
 			System.out.print("Hi there");
 			System.out.println("Hi");
+			System.out.println("Welcome");
 		int result=x+y;
 
 		return result;
